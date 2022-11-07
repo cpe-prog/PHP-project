@@ -87,16 +87,16 @@
                 <fieldset>
                     <legend>Delivery Details</legend>
                     <div class="order-label">Full Name</div>
-                    <input type="text" name="full-name" placeholder="E.g. William Moore" class="input-responsive" required>
+                    <input type="text" name="full-name" placeholder="E.g. Grian Gajila" class="input-responsive" required>
 
                     <div class="order-label">Phone Number</div>
-                    <input type="tel" name="contact" placeholder="E.g. 7410000000" class="input-responsive" required>
+                    <input type="tel" name="contact" placeholder="E.g. 09283758917" class="input-responsive" required>
 
                     <div class="order-label">Email</div>
-                    <input type="email" name="email" placeholder="E.g. william@codeastro.com" class="input-responsive" required>
+                    <input type="email" name="email" placeholder="E.g. name@gmail.com" class="input-responsive" required>
 
                     <div class="order-label">Location</div>
-                    <textarea name="address" rows="10" placeholder="E.g. Street, City, Country" class="input-responsive" required></textarea>
+                    <textarea name="address" rows="10" placeholder="E.g. Mansalay, OR, Mindoro" class="input-responsive" required></textarea>
 
                     <input type="submit" name="submit" value="Confirm Order" class="btn btn-primary">
                 </fieldset>
